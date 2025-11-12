@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Caso Práctico.md",
+                "file": "09 - Caso Práctico.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Caso Práctico"
+              "title": "09 - Caso Práctico"
+            }
+          },
+          {
+            "id": "40ca63c029904259",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Edge AI Workshop.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01 - Edge AI Workshop"
             }
           }
         ]
@@ -171,22 +185,23 @@
   },
   "active": "21f693d2760347bf",
   "lastOpenFiles": [
-    "Edge AI Workshop.md",
-    "Configuración del Proyecto.md",
-    "Caso Práctico.md",
-    "Introducción al Edge AI.md",
-    "Qué está pasando por abajo.md",
+    "07 - Configuración del Proyecto.md",
+    "09 - Caso Práctico.md",
+    "08 - Qué está pasando por abajo.md",
+    "01 - Edge AI Workshop.md",
+    "06 - Donde encontrar modelos.md",
+    "02 - Introducción al Edge AI.md",
+    "03 - Qué es  Edge AI  y por qué es relevante..md",
+    "10 - Siguientes pasos.md",
+    "05 - Ejemplos de uso (IoT, móviles, wearables)..md",
+    "04 - Ventajas sobre la inferencia en la nube (latencia, privacidad, energía, conectividad)..md",
+    "mnist.tflite",
     "Pasted image 20251103033128.png",
-    "Siguientes pasos.md",
-    "Qué es  Edge AI  y por qué es relevante..md",
     "Qué es \"Edge AI\".md",
     "Screenshot 2025-11-03 at 2.39.37 AM.png",
     "Screenshot 2025-11-03 at 2.38.22 AM.png",
     "Screenshot 2025-11-03 at 2.36.36 AM.png",
     "Screenshot 2025-11-03 at 2.34.21 AM.png",
-    "Screenshot 2025-11-03 at 2.33.46 AM.png",
-    "Donde encontrar modelos.md",
-    "Ejemplos de uso (IoT, móviles, wearables)..md",
-    "Ventajas sobre la inferencia en la nube (latencia, privacidad, energía, conectividad)..md"
+    "Screenshot 2025-11-03 at 2.33.46 AM.png"
   ]
 }

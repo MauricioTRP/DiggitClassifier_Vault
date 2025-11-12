@@ -51,3 +51,7 @@ Ahora encontrarás una nueva carpeta ml, con el modelo.
 Una vez que se indexen las nuevas dependencias, encontrarás documentación del modelo a travez de la meta data que este tiene:
 ![[Screenshot 2025-11-03 at 2.39.37 AM.png]]
 
+
+En caso de problemas con las dependencias agregadas, se pueden buscar las versiones en Maven
+
+https://central.sonatype.com/artifact/org.tensorflow/tensorflow-lite-gpu?smo=true
